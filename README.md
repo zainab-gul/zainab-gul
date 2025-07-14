@@ -8,14 +8,6 @@
 ---
 
 
-
-ibrahim dash
-
-
-
-
-
-
 ## 🛠 Skills & Interests  
 - **Programming Languages**: Python, C++, HTML/CSS  
 - **Tools & Technologies**: Git, VS Code, GitHub

@@ -1,1 +1,0 @@
-bas krde nhi krongi
