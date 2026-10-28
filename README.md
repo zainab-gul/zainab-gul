@@ -1,17 +1,17 @@
 <h1 align="center"> I'm Zainab Gul</h1>
 
 💻 A passionate learner exploring the world of technology  
-📫 Reach me at **zainabgul813@gmail.com**  
+📫 Reach me at **zainab.gul0@outlook.com**  
 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/zainab-gul-7082ab295)  
-🌱 Currently learning: **Python, Web Dev, Open Source**  
+🌱 Currently learning: **AI, Web Dev, Open Source**  
 
 ---
 
 
 ## 🛠 Skills & Interests  
-- **Programming Languages**: Python, C++, HTML/CSS  
+- **Programming Languages**: Python, C++, HTML/CSS, R 
 - **Tools & Technologies**: Git, VS Code, GitHub
-- **Areas of Interest**: Web Development, Android App Development, AI, Data Analytics 
+- **Areas of Interest**: Web Designing, AI, Data Analytics, Machine Learning
 
 ---
 
